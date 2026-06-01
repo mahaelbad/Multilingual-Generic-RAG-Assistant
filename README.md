@@ -265,7 +265,7 @@ Does the candidate have Machine Learning experience?
 
 ## 👩‍💻 Author
 
-**Walaa Elbadry**
+**Maha Elbadry**
 
 Software Engineering Student
 Machine Learning & Artificial Intelligence Enthusiast
