@@ -10,17 +10,6 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot that enables users to up
 
 ![Main Interface](assets/UI3.png)
 
-### 🌍 Arabic Language Support
-
-![Arabic Support](assets/UI4.png)
-
-### 📂 Document Upload & Processing
-
-![Upload Documents](assets/UI5.png)
-
-### 💬 Chat Experience
-
-![Chat Interface](assets/UI6.png)
 
 ---
 
